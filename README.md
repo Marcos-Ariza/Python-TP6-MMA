@@ -71,8 +71,4 @@ Gestiona un listín telefónico:
 
 ## Autor
 
-Creado por [Tu Nombre]
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Creado por Marcos Ariza
